@@ -40,10 +40,12 @@ Mini Job Portal is a web application designed for both recruiters and job seeker
 
 2. Install dependencies
 
+    ```bash
     npm install
 
 3. Start the server
 
+    ```bash
     node server.js
 
 4. Technologies used
